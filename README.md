@@ -35,4 +35,4 @@ __Note : only works on macos :/__
 
 ## Wooo
 
-<img width="547" height="720" alt="image" src="https://github.com/user-attachments/assets/4808eedb-61ba-4868-983b-0e15dcd37818" />
+<img alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d740bdf6083d57b0bddd66e4ca854c5cc8a60c62_img_5046.jpeg" />
