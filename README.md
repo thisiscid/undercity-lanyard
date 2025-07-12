@@ -1,12 +1,14 @@
 # Undercity eink lanyard
 
+#####  forked from [phtallos version](https://github.com/phthallo/undercity-lanyard) (and thereby [spc's original version](https://github.com/espcaa/undercity-lanyard/)), many thanks
+
 ## How to flash it
 
 __Note : only works on macos :/__
 
 1. Clone the repo
     ```bash
-    git clone
+    git clone https://github.com/thisiscid/undercity-lanyard
     ```
 
 2. You need anaconda, imagemagick installed & arduino-cli. Install anaconda using this [link](https://www.anaconda.com/docs/getting-started/anaconda/install#macos-linux-installation)
@@ -36,3 +38,4 @@ __Note : only works on macos :/__
 ## Wooo
 
 <img alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d740bdf6083d57b0bddd66e4ca854c5cc8a60c62_img_5046.jpeg" />
+
