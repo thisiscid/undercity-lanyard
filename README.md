@@ -8,11 +8,24 @@ __Note : only works on macos :/__
     ```bash
     git clone
     ```
+
 2. You need anaconda installed & arduino-cli. Install anaconda 
     ```bash
     # arduino cli
     brew install arduino-cli
+
     ```
+
+3. Install dependencies
+    The script requires a few dependencies for arduino-cli. Here are the steps I took:
+    ardu
+    ```bash
+    arduino-cli config init # not necessary if you have already used arduino-cli prior
+    arduino-cli config add board_manager.additional_urls https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+    arduino-cli core update-index
+    arduino-cli lib install "Adafruit NeoPixel"
+    ```
+
 3. Just run the script
     ```bash
     chmod +x upload.sh
